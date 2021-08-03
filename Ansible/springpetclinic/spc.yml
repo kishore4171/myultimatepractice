@@ -1,6 +1,6 @@
 ---
 - name: deploy spring pet clinic application as linux service
-  hosts: all
+  hosts: ubuntu
   become: yes
   tasks:
     - name: update and install open jdk to run the spring boot application
