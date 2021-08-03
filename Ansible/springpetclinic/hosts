@@ -1,0 +1,15 @@
+[rhel]
+172.31.20.111
+
+[ubuntu]
+172.31.43.245
+localhost
+
+[webservers]
+172.31.43.245
+172.31.20.111
+
+[appservers]
+
+
+[dbservers]
